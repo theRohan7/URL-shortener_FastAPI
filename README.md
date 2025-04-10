@@ -1,6 +1,6 @@
 # 🔗 URL Shortener Backend Service
 
-his is a simple, production-level **URL Shortener** built with **FastAPI** and **PostgreSQL**.
+This is a simple, production-level **URL Shortener** built with **FastAPI** and **PostgreSQL**.
 
 It has two primary endpoints:
 
